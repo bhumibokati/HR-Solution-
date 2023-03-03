@@ -1,0 +1,24 @@
+@media (min-width: 768px){
+    .header .text-line h1{
+	margin-left: 7rem;
+
+	}
+	.header .text-line p{
+		margin-left: 7rem;
+	}
+    .header .btn-btn{
+        margin-left:7rem;
+    }
+
+/*achievement*/
+    .achievement h2 h3{
+        padding-top:10rem;
+}
+
+/*worried about*/
+    /*partner section*/
+    .partner .card-group .card{
+        width:100%;
+    }
+}
+    
